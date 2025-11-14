@@ -2,4 +2,4 @@
 Step by step guide to learn JavaScript.
 
 ## CHECKLIST TOPICS:
-[] Variables
+[ ] Variables
