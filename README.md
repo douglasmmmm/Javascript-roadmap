@@ -10,3 +10,4 @@ Step by step guide to learn JavaScript.
 - [x] Prototypes
 - [x] Scope
 - [x] Types
+- [x] Set
