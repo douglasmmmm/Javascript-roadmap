@@ -11,3 +11,4 @@ Step by step guide to learn JavaScript.
 - [x] Scope
 - [x] Types
 - [x] Set
+- [x] Map
