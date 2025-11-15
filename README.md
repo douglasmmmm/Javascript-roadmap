@@ -12,3 +12,4 @@ Step by step guide to learn JavaScript.
 - [x] Types
 - [x] Set
 - [x] Map
+- [x] JSON
